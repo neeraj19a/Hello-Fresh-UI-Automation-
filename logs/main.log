@@ -1,0 +1,21 @@
+[INFO ] 2020-03-29 19:01:23.787 - T - 14 tests.base.BaseTest:startService 31 browser is CHROME
+[INFO ] 2020-03-29 19:01:23.894 - T - 14 tests.base.BaseTest:startService 32 Initializing driver for CHROME browser
+[INFO ] 2020-03-29 19:01:23.896 - T - 14 tests.base.BaseTest:startService 33 Test is starting on -->CHROME
+[INFO ] 2020-03-29 19:01:23.750 - T - 15 tests.base.BaseTest:startService 31 browser is FIREFOX
+[INFO ] 2020-03-29 19:01:23.902 - T - 15 tests.base.BaseTest:startService 32 Initializing driver for FIREFOX browser
+[INFO ] 2020-03-29 19:01:23.905 - T - 15 tests.base.BaseTest:startService 33 Test is starting on -->FIREFOX
+[INFO ] 2020-03-29 19:01:25.080 - T - 15 tests.base.FirefoxDriverManager:startService 22 OS value-->windows 10
+[INFO ] 2020-03-29 19:01:25.119 - T - 15 tests.base.FirefoxDriverManager:startService 35 Setting Up Firefox On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\test\java\resources\windows\geckodriver.exe
+[INFO ] 2020-03-29 19:01:25.292 - T - 14 tests.base.BaseTest:initial 51 Running on windows 10 Operating System
+[INFO ] 2020-03-29 19:01:25.379 - T - 14 tests.base.ChromeDriverManager:startService 20 OS value-->windows 10
+[INFO ] 2020-03-29 19:01:25.384 - T - 14 tests.base.ChromeDriverManager:startService 34 Setting Up Chrome On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\test\java\resources\windows\chromedriver.exe
+[INFO ] 2020-03-29 19:01:29.974 - T - 15 tests.base.FirefoxDriverManager:startService 65 GeckoDriverService Started
+[INFO ] 2020-03-29 19:01:42.275 - T - 14 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:01:42.276 - T - 14 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:01:42.277 - T - 14 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:01:45.537 - T - 15 tests.base.FirefoxDriverManager:createDriver 92 FirefoxDriver created
+[INFO ] 2020-03-29 19:01:45.543 - T - 15 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:01:45.544 - T - 15 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:01:45.545 - T - 15 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:01:49.112 - T - 14 tests.utils.WebEventListener:afterNavigateTo 18 Navigated to:'http://automationpractice.com/index.php'
+[INFO ] 2020-03-29 19:01:52.410 - T - 15 tests.utils.WebEventListener:afterNavigateTo 18 Navigated to:'http://automationpractice.com/index.php'

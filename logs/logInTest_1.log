@@ -1,0 +1,73 @@
+[INFO ] 2020-03-29 19:03:00.719 - T - 15 utils.Log:startTestCase 19 
+
+************** Execution Started : logInTest on Thread 15**************
+
+[INFO ] 2020-03-29 19:03:00.724 - T - 15 tests.HFTests:logInTest 63 ========logInTestTest is starting========
+[INFO ] 2020-03-29 19:03:00.724 - T - 15 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:00.725 - T - 15 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:00.725 - T - 15 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:00.727 - T - 15 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:00.727 - T - 15 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:00.728 - T - 15 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:00.823 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class='login']
+[INFO ] 2020-03-29 19:03:03.747 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (4bacb2cd-1f97-4b07-a8b6-a1f49fc9b831)] -> xpath: //a[@class='login']]
+[INFO ] 2020-03-29 19:03:04.032 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: email
+[INFO ] 2020-03-29 19:03:04.395 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (4bacb2cd-1f97-4b07-a8b6-a1f49fc9b831)] -> id: email]
+[INFO ] 2020-03-29 19:03:04.547 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: passwd
+[INFO ] 2020-03-29 19:03:04.947 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (4bacb2cd-1f97-4b07-a8b6-a1f49fc9b831)] -> id: passwd]
+[INFO ] 2020-03-29 19:03:05.030 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: SubmitLogin
+[INFO ] 2020-03-29 19:03:08.050 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (4bacb2cd-1f97-4b07-a8b6-a1f49fc9b831)] -> id: SubmitLogin]
+[INFO ] 2020-03-29 19:03:08.099 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: page-heading
+[INFO ] 2020-03-29 19:03:08.202 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: account
+[INFO ] 2020-03-29 19:03:08.282 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: info-account
+[INFO ] 2020-03-29 19:03:08.348 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: logout
+[INFO ] 2020-03-29 19:03:08.403 - T - 15 utils.Log:endTestCase 25 
+
+************** Execution End : logInTest on Thread 15**************
+
+[INFO ] 2020-03-29 19:03:08.407 - T - 15 tests.base.BaseTest:teardown 91 In After Method, Test logInTest is Ending
+[INFO ] 2020-03-29 19:03:08.407 - T - 15 tests.base.BaseTest:teardown 92 Taking Screenshot
+[INFO ] 2020-03-29 19:03:09.182 - T - 14 utils.Log:startTestCase 19 
+
+************** Execution Started : logInTest on Thread 14**************
+
+[INFO ] 2020-03-29 19:03:09.186 - T - 14 tests.HFTests:logInTest 63 ========logInTestTest is starting========
+[INFO ] 2020-03-29 19:03:09.186 - T - 14 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:09.187 - T - 14 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:09.187 - T - 14 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:09.188 - T - 14 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:09.188 - T - 14 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:09.189 - T - 14 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:09.240 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class='login']
+[INFO ] 2020-03-29 19:03:12.062 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (5149aa41ab617d31e2106446336c0182)] -> xpath: //a[@class='login']]
+[INFO ] 2020-03-29 19:03:12.104 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: email
+[INFO ] 2020-03-29 19:03:12.254 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (5149aa41ab617d31e2106446336c0182)] -> id: email]
+[INFO ] 2020-03-29 19:03:12.804 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: passwd
+[INFO ] 2020-03-29 19:03:12.895 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (5149aa41ab617d31e2106446336c0182)] -> id: passwd]
+[INFO ] 2020-03-29 19:03:12.977 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: SubmitLogin
+[INFO ] 2020-03-29 19:03:14.418 - T - 15 tests.base.FirefoxDriverManager:startService 22 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:14.419 - T - 15 tests.base.FirefoxDriverManager:startService 35 Setting Up Firefox On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\test\java\resources\windows\geckodriver.exe
+[INFO ] 2020-03-29 19:03:14.678 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (5149aa41ab617d31e2106446336c0182)] -> id: SubmitLogin]
+[INFO ] 2020-03-29 19:03:14.725 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: page-heading
+[INFO ] 2020-03-29 19:03:14.790 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: account
+[INFO ] 2020-03-29 19:03:14.859 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: info-account
+[INFO ] 2020-03-29 19:03:14.923 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: logout
+[INFO ] 2020-03-29 19:03:14.926 - T - 15 tests.base.FirefoxDriverManager:startService 65 GeckoDriverService Started
+[INFO ] 2020-03-29 19:03:14.968 - T - 14 utils.Log:endTestCase 25 
+
+************** Execution End : logInTest on Thread 14**************
+
+[INFO ] 2020-03-29 19:03:14.973 - T - 14 tests.base.BaseTest:teardown 91 In After Method, Test logInTest is Ending
+[INFO ] 2020-03-29 19:03:14.973 - T - 14 tests.base.BaseTest:teardown 92 Taking Screenshot
+[INFO ] 2020-03-29 19:03:19.201 - T - 15 tests.base.FirefoxDriverManager:createDriver 92 FirefoxDriver created
+[INFO ] 2020-03-29 19:03:19.201 - T - 15 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:19.202 - T - 15 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:19.208 - T - 15 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:19.421 - T - 14 tests.base.BaseTest:initial 51 Running on windows 10 Operating System
+[INFO ] 2020-03-29 19:03:19.422 - T - 14 tests.base.ChromeDriverManager:startService 20 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:19.422 - T - 14 tests.base.ChromeDriverManager:startService 34 Setting Up Chrome On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\test\java\resources\windows\chromedriver.exe
+[INFO ] 2020-03-29 19:03:25.400 - T - 14 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:25.400 - T - 14 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:25.401 - T - 14 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:25.651 - T - 15 tests.utils.WebEventListener:afterNavigateTo 18 Navigated to:'http://automationpractice.com/index.php'
+[INFO ] 2020-03-29 19:03:31.798 - T - 14 tests.utils.WebEventListener:afterNavigateTo 18 Navigated to:'http://automationpractice.com/index.php'

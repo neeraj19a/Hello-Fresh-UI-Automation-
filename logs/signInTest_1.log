@@ -1,0 +1,139 @@
+[INFO ] 2020-03-29 19:01:53.280 - T - 15 utils.Log:startTestCase 19 
+
+************** Execution Started : signInTest on Thread 15**************
+
+[INFO ] 2020-03-29 19:01:53.346 - T - 15 tests.HFTests:signInTest 26 ========signInTestTest is starting========
+[INFO ] 2020-03-29 19:01:55.144 - T - 15 pages.UserDetails:getState 58 State value-->Hawaii
+[INFO ] 2020-03-29 19:01:55.146 - T - 15 pages.UserDetails:getPostalCode 68 postalCode value-->53685
+[INFO ] 2020-03-29 19:01:55.147 - T - 15 pages.UserDetails:getPhoneNumber 82 phoneNumber value-->2832
+[INFO ] 2020-03-29 19:01:55.317 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class='login']
+[INFO ] 2020-03-29 19:01:58.919 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> xpath: //a[@class='login']]
+[INFO ] 2020-03-29 19:01:59.292 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: email_create
+[INFO ] 2020-03-29 19:01:59.861 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: email_create]
+[INFO ] 2020-03-29 19:02:00.764 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: SubmitCreate
+[INFO ] 2020-03-29 19:02:01.760 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: SubmitCreate]
+[INFO ] 2020-03-29 19:02:03.810 - T - 15 tests.utils.WebEventListener:onException 54 Exception occured Taking Screenshot: org.openqa.selenium.NoSuchElementException: Unable to locate element: //form[@id='account-creation_form']/descendant::label[@for='id_gender2']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'T460', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 74.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200309095159, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 31200, moz:profile: C:\Users\T460\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 292c7175-27a6-4a1e-8c41-fca6d25434f7
+*** Element info: {Using=xpath, value=//form[@id='account-creation_form']/descendant::label[@for='id_gender2']}
+[INFO ] 2020-03-29 19:02:04.343 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //form[@id='account-creation_form']/descendant::label[@for='id_gender2']
+[INFO ] 2020-03-29 19:02:04.919 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> xpath: //form[@id='account-creation_form']/descendant::label[@for='id_gender2']]
+[INFO ] 2020-03-29 19:02:04.982 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: customer_firstname
+[INFO ] 2020-03-29 19:02:05.416 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: customer_firstname]
+[INFO ] 2020-03-29 19:02:05.507 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: customer_lastname
+[INFO ] 2020-03-29 19:02:05.858 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: customer_lastname]
+[INFO ] 2020-03-29 19:02:05.946 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: passwd
+[INFO ] 2020-03-29 19:02:06.382 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: passwd]
+[INFO ] 2020-03-29 19:02:06.532 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: company
+[INFO ] 2020-03-29 19:02:06.907 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: company]
+[INFO ] 2020-03-29 19:02:06.970 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: address1
+[INFO ] 2020-03-29 19:02:07.251 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: address1]
+[INFO ] 2020-03-29 19:02:07.293 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: address2
+[INFO ] 2020-03-29 19:02:07.666 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: address2]
+[INFO ] 2020-03-29 19:02:07.700 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: city
+[INFO ] 2020-03-29 19:02:07.991 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: city]
+[INFO ] 2020-03-29 19:02:08.056 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //select[@name='id_state']
+[INFO ] 2020-03-29 19:02:08.124 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: .//option[normalize-space(.) = "Hawaii"]
+[INFO ] 2020-03-29 19:02:08.417 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[[[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> xpath: //select[@name='id_state']]] -> xpath: .//option[normalize-space(.) = "Hawaii"]]
+[INFO ] 2020-03-29 19:02:08.439 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: postcode
+[INFO ] 2020-03-29 19:02:08.757 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: postcode]
+[INFO ] 2020-03-29 19:02:08.936 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: other
+[INFO ] 2020-03-29 19:02:09.288 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: other]
+[INFO ] 2020-03-29 19:02:09.496 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: phone
+[INFO ] 2020-03-29 19:02:09.813 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: phone]
+[INFO ] 2020-03-29 19:02:09.871 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: phone_mobile
+[INFO ] 2020-03-29 19:02:10.153 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: phone_mobile]
+[INFO ] 2020-03-29 19:02:10.228 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: alias
+[INFO ] 2020-03-29 19:02:10.520 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: alias]
+[INFO ] 2020-03-29 19:02:10.585 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: submitAccount
+[INFO ] 2020-03-29 19:02:14.207 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (292c7175-27a6-4a1e-8c41-fca6d25434f7)] -> id: submitAccount]
+[INFO ] 2020-03-29 19:02:14.305 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: h1
+[INFO ] 2020-03-29 19:02:14.484 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //div[@id='header_logo']/a/img
+[INFO ] 2020-03-29 19:02:14.600 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: logout
+[INFO ] 2020-03-29 19:02:14.774 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: h1
+[INFO ] 2020-03-29 19:02:14.910 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: account
+[INFO ] 2020-03-29 19:02:15.059 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: info-account
+[INFO ] 2020-03-29 19:02:15.143 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: logout
+[INFO ] 2020-03-29 19:02:15.235 - T - 15 utils.Log:endTestCase 25 
+
+************** Execution End : signInTest on Thread 15**************
+
+[INFO ] 2020-03-29 19:02:15.254 - T - 15 tests.base.BaseTest:teardown 91 In After Method, Test signInTest is Ending
+[INFO ] 2020-03-29 19:02:15.254 - T - 15 tests.base.BaseTest:teardown 92 Taking Screenshot
+[INFO ] 2020-03-29 19:02:21.696 - T - 14 utils.Log:startTestCase 19 
+
+************** Execution Started : signInTest on Thread 14**************
+
+[INFO ] 2020-03-29 19:02:21.696 - T - 14 tests.HFTests:signInTest 26 ========signInTestTest is starting========
+[INFO ] 2020-03-29 19:02:21.753 - T - 14 pages.UserDetails:getState 58 State value-->New Jersey
+[INFO ] 2020-03-29 19:02:21.754 - T - 14 pages.UserDetails:getPostalCode 68 postalCode value-->60536
+[INFO ] 2020-03-29 19:02:21.754 - T - 14 pages.UserDetails:getPhoneNumber 82 phoneNumber value-->5972
+[INFO ] 2020-03-29 19:02:21.924 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class='login']
+[INFO ] 2020-03-29 19:02:23.863 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> xpath: //a[@class='login']]
+[INFO ] 2020-03-29 19:02:24.883 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: email_create
+[INFO ] 2020-03-29 19:02:25.268 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: email_create]
+[INFO ] 2020-03-29 19:02:26.324 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: SubmitCreate
+[INFO ] 2020-03-29 19:02:26.570 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: SubmitCreate]
+[INFO ] 2020-03-29 19:02:28.238 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //form[@id='account-creation_form']/descendant::label[@for='id_gender2']
+[INFO ] 2020-03-29 19:02:28.490 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> xpath: //form[@id='account-creation_form']/descendant::label[@for='id_gender2']]
+[INFO ] 2020-03-29 19:02:28.525 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: customer_firstname
+[INFO ] 2020-03-29 19:02:28.740 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: customer_firstname]
+[INFO ] 2020-03-29 19:02:29.172 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: customer_lastname
+[INFO ] 2020-03-29 19:02:29.376 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: customer_lastname]
+[INFO ] 2020-03-29 19:02:29.559 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: passwd
+[INFO ] 2020-03-29 19:02:29.706 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: passwd]
+[INFO ] 2020-03-29 19:02:29.877 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: company
+[INFO ] 2020-03-29 19:02:30.044 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: company]
+[INFO ] 2020-03-29 19:02:30.530 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: address1
+[INFO ] 2020-03-29 19:02:30.821 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: address1]
+[INFO ] 2020-03-29 19:02:30.948 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: address2
+[INFO ] 2020-03-29 19:02:31.076 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: address2]
+[INFO ] 2020-03-29 19:02:31.173 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: city
+[INFO ] 2020-03-29 19:02:31.454 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: city]
+[INFO ] 2020-03-29 19:02:31.858 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //select[@name='id_state']
+[INFO ] 2020-03-29 19:02:31.978 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: .//option[normalize-space(.) = "New Jersey"]
+[INFO ] 2020-03-29 19:02:32.141 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[[[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> xpath: //select[@name='id_state']]] -> xpath: .//option[normalize-space(.) = "New Jersey"]]
+[INFO ] 2020-03-29 19:02:32.197 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: postcode
+[INFO ] 2020-03-29 19:02:32.423 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: postcode]
+[INFO ] 2020-03-29 19:02:32.735 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: other
+[INFO ] 2020-03-29 19:02:32.858 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: other]
+[INFO ] 2020-03-29 19:02:33.258 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: phone
+[INFO ] 2020-03-29 19:02:33.376 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: phone]
+[INFO ] 2020-03-29 19:02:33.465 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: phone_mobile
+[INFO ] 2020-03-29 19:02:33.622 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: phone_mobile]
+[INFO ] 2020-03-29 19:02:33.808 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: alias
+[INFO ] 2020-03-29 19:02:33.922 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: alias]
+[INFO ] 2020-03-29 19:02:34.055 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: submitAccount
+[INFO ] 2020-03-29 19:02:36.871 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (c566c191791463f0612b6c05eb710a0a)] -> id: submitAccount]
+[INFO ] 2020-03-29 19:02:36.971 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: h1
+[INFO ] 2020-03-29 19:02:37.190 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //div[@id='header_logo']/a/img
+[INFO ] 2020-03-29 19:02:37.271 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: logout
+[INFO ] 2020-03-29 19:02:37.336 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: h1
+[INFO ] 2020-03-29 19:02:37.430 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: account
+[INFO ] 2020-03-29 19:02:37.575 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: info-account
+[INFO ] 2020-03-29 19:02:37.655 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: logout
+[INFO ] 2020-03-29 19:02:37.688 - T - 14 utils.Log:endTestCase 25 
+
+************** Execution End : signInTest on Thread 14**************
+
+[INFO ] 2020-03-29 19:02:37.693 - T - 14 tests.base.BaseTest:teardown 91 In After Method, Test signInTest is Ending
+[INFO ] 2020-03-29 19:02:37.694 - T - 14 tests.base.BaseTest:teardown 92 Taking Screenshot
+[INFO ] 2020-03-29 19:02:39.077 - T - 15 tests.base.FirefoxDriverManager:startService 22 OS value-->windows 10
+[INFO ] 2020-03-29 19:02:39.077 - T - 15 tests.base.FirefoxDriverManager:startService 35 Setting Up Firefox On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\test\java\resources\windows\geckodriver.exe
+[INFO ] 2020-03-29 19:02:39.663 - T - 15 tests.base.FirefoxDriverManager:startService 65 GeckoDriverService Started
+[INFO ] 2020-03-29 19:02:42.945 - T - 14 tests.base.BaseTest:initial 51 Running on windows 10 Operating System
+[INFO ] 2020-03-29 19:02:42.947 - T - 14 tests.base.ChromeDriverManager:startService 20 OS value-->windows 10
+[INFO ] 2020-03-29 19:02:42.948 - T - 14 tests.base.ChromeDriverManager:startService 34 Setting Up Chrome On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\test\java\resources\windows\chromedriver.exe
+[INFO ] 2020-03-29 19:02:49.794 - T - 14 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:02:49.795 - T - 14 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:02:49.795 - T - 14 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:02:50.639 - T - 15 tests.base.FirefoxDriverManager:createDriver 92 FirefoxDriver created
+[INFO ] 2020-03-29 19:02:50.640 - T - 15 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:02:50.640 - T - 15 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:02:50.641 - T - 15 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:00.586 - T - 15 tests.utils.WebEventListener:afterNavigateTo 18 Navigated to:'http://automationpractice.com/index.php'
+[INFO ] 2020-03-29 19:03:01.759 - T - 14 tests.utils.WebEventListener:afterNavigateTo 18 Navigated to:'http://automationpractice.com/index.php'

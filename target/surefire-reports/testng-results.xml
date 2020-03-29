@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="164644" started-at="2020-03-29T11:01:23Z" finished-at="2020-03-29T11:04:08Z">
+    <groups>
+    </groups>
+    <test name="Testing On Firefox" duration-ms="157602" started-at="2020-03-29T11:01:23Z" finished-at="2020-03-29T11:04:01Z">
+      <class name="tests.HFTests">
+        <test-method status="PASS" signature="startService(java.lang.String)[pri:0, instance:tests.HFTests@5017e1]" name="startService" is-config="true" duration-ms="683" started-at="2020-03-29T11:01:23Z" finished-at="2020-03-29T11:01:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startService -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:tests.HFTests@5017e1]" name="setup" is-config="true" duration-ms="27784" started-at="2020-03-29T11:01:24Z" finished-at="2020-03-29T11:01:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.signInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInTest(java.lang.reflect.Method)[pri:1, instance:tests.HFTests@5017e1]" name="signInTest" duration-ms="22139" started-at="2020-03-29T11:01:53Z" description="Create Account" finished-at="2020-03-29T11:02:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.signInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.HFTests@5017e1]" name="teardown" is-config="true" duration-ms="23809" started-at="2020-03-29T11:02:15Z" finished-at="2020-03-29T11:02:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInTest status=SUCCESS method=HFTests.signInTest(java.lang.reflect.Method)[pri:1, instance:tests.HFTests@5017e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:tests.HFTests@5017e1]" name="setup" is-config="true" duration-ms="21634" started-at="2020-03-29T11:02:39Z" finished-at="2020-03-29T11:03:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.logInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logInTest(java.lang.reflect.Method)[pri:2, instance:tests.HFTests@5017e1]" name="logInTest" duration-ms="7688" started-at="2020-03-29T11:03:00Z" description="Login using Existing Account" finished-at="2020-03-29T11:03:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.logInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.HFTests@5017e1]" name="teardown" is-config="true" duration-ms="6011" started-at="2020-03-29T11:03:08Z" finished-at="2020-03-29T11:03:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logInTest status=SUCCESS method=HFTests.logInTest(java.lang.reflect.Method)[pri:2, instance:tests.HFTests@5017e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:tests.HFTests@5017e1]" name="setup" is-config="true" duration-ms="11253" started-at="2020-03-29T11:03:14Z" finished-at="2020-03-29T11:03:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.checkoutTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkoutTest(java.lang.reflect.Method)[pri:3, instance:tests.HFTests@5017e1]" name="checkoutTest" duration-ms="27313" started-at="2020-03-29T11:03:25Z" description="Check Out Test case" finished-at="2020-03-29T11:03:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.checkoutTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.HFTests@5017e1]" name="teardown" is-config="true" duration-ms="5101" started-at="2020-03-29T11:03:52Z" finished-at="2020-03-29T11:03:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkoutTest status=SUCCESS method=HFTests.checkoutTest(java.lang.reflect.Method)[pri:3, instance:tests.HFTests@5017e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="stopService(java.lang.String)[pri:0, instance:tests.HFTests@5017e1]" name="stopService" is-config="true" duration-ms="3001" started-at="2020-03-29T11:03:58Z" finished-at="2020-03-29T11:04:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopService -->
+      </class> <!-- tests.HFTests -->
+    </test> <!-- Testing On Firefox -->
+    <test name="Testing On Chrome" duration-ms="164644" started-at="2020-03-29T11:01:23Z" finished-at="2020-03-29T11:04:08Z">
+      <class name="tests.HFTests">
+        <test-method status="PASS" signature="startService(java.lang.String)[pri:0, instance:tests.HFTests@451882b2]" name="startService" is-config="true" duration-ms="683" started-at="2020-03-29T11:01:23Z" finished-at="2020-03-29T11:01:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startService -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:tests.HFTests@451882b2]" name="setup" is-config="true" duration-ms="56924" started-at="2020-03-29T11:01:24Z" finished-at="2020-03-29T11:02:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.signInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInTest(java.lang.reflect.Method)[pri:1, instance:tests.HFTests@451882b2]" name="signInTest" duration-ms="15998" started-at="2020-03-29T11:02:21Z" description="Create Account" finished-at="2020-03-29T11:02:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.signInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.HFTests@451882b2]" name="teardown" is-config="true" duration-ms="5244" started-at="2020-03-29T11:02:37Z" finished-at="2020-03-29T11:02:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInTest status=SUCCESS method=HFTests.signInTest(java.lang.reflect.Method)[pri:1, instance:tests.HFTests@451882b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:tests.HFTests@451882b2]" name="setup" is-config="true" duration-ms="26234" started-at="2020-03-29T11:02:42Z" finished-at="2020-03-29T11:03:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.logInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logInTest(java.lang.reflect.Method)[pri:2, instance:tests.HFTests@451882b2]" name="logInTest" duration-ms="5790" started-at="2020-03-29T11:03:09Z" description="Login using Existing Account" finished-at="2020-03-29T11:03:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.logInTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.HFTests@451882b2]" name="teardown" is-config="true" duration-ms="4447" started-at="2020-03-29T11:03:14Z" finished-at="2020-03-29T11:03:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logInTest status=SUCCESS method=HFTests.logInTest(java.lang.reflect.Method)[pri:2, instance:tests.HFTests@451882b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:tests.HFTests@451882b2]" name="setup" is-config="true" duration-ms="16740" started-at="2020-03-29T11:03:19Z" finished-at="2020-03-29T11:03:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.checkoutTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkoutTest(java.lang.reflect.Method)[pri:3, instance:tests.HFTests@451882b2]" name="checkoutTest" duration-ms="24791" started-at="2020-03-29T11:03:36Z" description="Check Out Test case" finished-at="2020-03-29T11:04:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.HFTests.checkoutTest(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.HFTests@451882b2]" name="teardown" is-config="true" duration-ms="4177" started-at="2020-03-29T11:04:00Z" finished-at="2020-03-29T11:04:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkoutTest status=SUCCESS method=HFTests.checkoutTest(java.lang.reflect.Method)[pri:3, instance:tests.HFTests@451882b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="stopService(java.lang.String)[pri:0, instance:tests.HFTests@451882b2]" name="stopService" is-config="true" duration-ms="3002" started-at="2020-03-29T11:04:05Z" finished-at="2020-03-29T11:04:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopService -->
+      </class> <!-- tests.HFTests -->
+    </test> <!-- Testing On Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

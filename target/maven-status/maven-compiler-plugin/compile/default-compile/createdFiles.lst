@@ -1,0 +1,11 @@
+pages\BasePage.class
+utils\Log.class
+pages\MyAccount.class
+pages\PageGenerator.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\CheckOutPage.class
+utils\PropertyManager.class
+utils\TestUtil.class
+pages\UserDetails.class

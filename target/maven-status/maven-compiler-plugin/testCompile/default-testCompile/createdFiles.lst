@@ -1,0 +1,8 @@
+tests\base\BaseTest.class
+tests\base\DriverManager.class
+tests\HFTests.class
+tests\WebTest.class
+tests\base\ChromeDriverManager.class
+tests\utils\WebEventListener.class
+tests\base\DriverManagerFactory.class
+tests\base\FirefoxDriverManager.class

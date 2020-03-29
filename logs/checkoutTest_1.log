@@ -1,0 +1,102 @@
+[INFO ] 2020-03-29 19:03:25.676 - T - 15 utils.Log:startTestCase 19 
+
+************** Execution Started : checkoutTest on Thread 15**************
+
+[INFO ] 2020-03-29 19:03:25.827 - T - 15 tests.HFTests:checkoutTest 95 ========checkoutTestTest is starting========
+[INFO ] 2020-03-29 19:03:25.827 - T - 15 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:25.828 - T - 15 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:25.830 - T - 15 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:25.830 - T - 15 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:25.831 - T - 15 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:25.831 - T - 15 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:25.846 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class='login']
+[INFO ] 2020-03-29 19:03:28.473 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> xpath: //a[@class='login']]
+[INFO ] 2020-03-29 19:03:28.529 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: email
+[INFO ] 2020-03-29 19:03:28.816 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> id: email]
+[INFO ] 2020-03-29 19:03:28.910 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: passwd
+[INFO ] 2020-03-29 19:03:29.180 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> id: passwd]
+[INFO ] 2020-03-29 19:03:29.242 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: SubmitLogin
+[INFO ] 2020-03-29 19:03:32.055 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> id: SubmitLogin]
+[INFO ] 2020-03-29 19:03:32.232 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.linkText: Women
+[INFO ] 2020-03-29 19:03:34.963 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> link text: Women]
+[INFO ] 2020-03-29 19:03:35.004 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]
+[INFO ] 2020-03-29 19:03:36.165 - T - 14 utils.Log:startTestCase 19 
+
+************** Execution Started : checkoutTest on Thread 14**************
+
+[INFO ] 2020-03-29 19:03:36.166 - T - 14 tests.HFTests:checkoutTest 95 ========checkoutTestTest is starting========
+[INFO ] 2020-03-29 19:03:36.166 - T - 14 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:36.166 - T - 14 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:36.167 - T - 14 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:36.167 - T - 14 utils.PropertyManager:getProperty 18 OS value-->windows 10
+[INFO ] 2020-03-29 19:03:36.167 - T - 14 utils.PropertyManager:getProperty 32 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\NEW Latest\qa-test-hf-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2020-03-29 19:03:36.168 - T - 14 utils.PropertyManager:getProperty 52 Property File Loaded
+[INFO ] 2020-03-29 19:03:36.212 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class='login']
+[INFO ] 2020-03-29 19:03:37.427 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]]
+[INFO ] 2020-03-29 19:03:37.437 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: *//*[@name='Submit']
+[INFO ] 2020-03-29 19:03:37.757 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> xpath: *//*[@name='Submit']]
+[INFO ] 2020-03-29 19:03:37.766 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class and @title='Proceed to checkout']
+[INFO ] 2020-03-29 19:03:38.897 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> xpath: //a[@class='login']]
+[INFO ] 2020-03-29 19:03:38.916 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: email
+[INFO ] 2020-03-29 19:03:39.150 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> id: email]
+[INFO ] 2020-03-29 19:03:39.482 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: passwd
+[INFO ] 2020-03-29 19:03:39.591 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> id: passwd]
+[INFO ] 2020-03-29 19:03:39.664 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: SubmitLogin
+[INFO ] 2020-03-29 19:03:41.781 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> xpath: //a[@class and @title='Proceed to checkout']]
+[INFO ] 2020-03-29 19:03:41.810 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> id: SubmitLogin]
+[INFO ] 2020-03-29 19:03:41.827 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: h1
+[INFO ] 2020-03-29 19:03:41.929 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //li[@class='step_todo four']
+[INFO ] 2020-03-29 19:03:41.942 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.linkText: Women
+[INFO ] 2020-03-29 19:03:41.974 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //li[@id='step_end']
+[INFO ] 2020-03-29 19:03:42.018 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: a.standard-checkout[title='Proceed to checkout']
+[INFO ] 2020-03-29 19:03:43.797 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> css selector: a.standard-checkout[title='Proceed to checkout']]
+[INFO ] 2020-03-29 19:03:43.818 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.name: processAddress
+[INFO ] 2020-03-29 19:03:44.931 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> link text: Women]
+[INFO ] 2020-03-29 19:03:44.950 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]
+[INFO ] 2020-03-29 19:03:46.281 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> name: processAddress]
+[INFO ] 2020-03-29 19:03:46.293 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: uniform-cgv
+[INFO ] 2020-03-29 19:03:46.595 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> id: uniform-cgv]
+[INFO ] 2020-03-29 19:03:46.601 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.name: processCarrier
+[INFO ] 2020-03-29 19:03:47.906 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]]
+[INFO ] 2020-03-29 19:03:47.931 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: *//*[@name='Submit']
+[INFO ] 2020-03-29 19:03:47.943 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> name: processCarrier]
+[INFO ] 2020-03-29 19:03:47.954 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: bankwire
+[INFO ] 2020-03-29 19:03:48.128 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> xpath: *//*[@name='Submit']]
+[INFO ] 2020-03-29 19:03:48.153 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //a[@class and @title='Proceed to checkout']
+[INFO ] 2020-03-29 19:03:50.199 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> class name: bankwire]
+[INFO ] 2020-03-29 19:03:50.239 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //*[@id='cart_navigation']/button
+[INFO ] 2020-03-29 19:03:52.650 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> xpath: //a[@class and @title='Proceed to checkout']]
+[INFO ] 2020-03-29 19:03:52.832 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: h1
+[INFO ] 2020-03-29 19:03:52.927 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //li[@class='step_todo four']
+[INFO ] 2020-03-29 19:03:52.950 - T - 15 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[FirefoxDriver: firefox on WINDOWS (5b52be0e-c178-404e-951a-2aa1ef24a344)] -> xpath: //*[@id='cart_navigation']/button]
+[INFO ] 2020-03-29 19:03:52.969 - T - 15 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //*[@class='cheque-indent']/strong
+[INFO ] 2020-03-29 19:03:52.975 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //li[@id='step_end']
+[INFO ] 2020-03-29 19:03:52.984 - T - 15 utils.Log:endTestCase 25 
+
+************** Execution End : checkoutTest on Thread 15**************
+
+[INFO ] 2020-03-29 19:03:52.988 - T - 15 tests.base.BaseTest:teardown 91 In After Method, Test checkoutTest is Ending
+[INFO ] 2020-03-29 19:03:52.989 - T - 15 tests.base.BaseTest:teardown 92 Taking Screenshot
+[INFO ] 2020-03-29 19:03:53.016 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.cssSelector: a.standard-checkout[title='Proceed to checkout']
+[INFO ] 2020-03-29 19:03:54.577 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> css selector: a.standard-checkout[title='Proceed to checkout']]
+[INFO ] 2020-03-29 19:03:54.603 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.name: processAddress
+[INFO ] 2020-03-29 19:03:55.925 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> name: processAddress]
+[INFO ] 2020-03-29 19:03:55.944 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.id: uniform-cgv
+[INFO ] 2020-03-29 19:03:56.054 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> id: uniform-cgv]
+[INFO ] 2020-03-29 19:03:56.076 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.name: processCarrier
+[INFO ] 2020-03-29 19:03:57.460 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> name: processCarrier]
+[INFO ] 2020-03-29 19:03:57.476 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.className: bankwire
+[INFO ] 2020-03-29 19:03:58.091 - T - 15 tests.base.BaseTest:stopService 104 browser is FIREFOX
+[INFO ] 2020-03-29 19:03:58.091 - T - 15 tests.base.BaseTest:stopService 105 Stopping driver for FIREFOX browser
+[INFO ] 2020-03-29 19:03:58.633 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> class name: bankwire]
+[INFO ] 2020-03-29 19:03:58.660 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //*[@id='cart_navigation']/button
+[INFO ] 2020-03-29 19:04:00.908 - T - 14 tests.utils.WebEventListener:afterClickOn 34 Clicked on: [[ChromeDriver: chrome on WINDOWS (2a98f2f120bed53597e67ee59638837c)] -> xpath: //*[@id='cart_navigation']/button]
+[INFO ] 2020-03-29 19:04:00.927 - T - 14 tests.utils.WebEventListener:afterFindBy 63 Found Element By : By.xpath: //*[@class='cheque-indent']/strong
+[INFO ] 2020-03-29 19:04:00.952 - T - 14 utils.Log:endTestCase 25 
+
+************** Execution End : checkoutTest on Thread 14**************
+
+[INFO ] 2020-03-29 19:04:00.955 - T - 14 tests.base.BaseTest:teardown 91 In After Method, Test checkoutTest is Ending
+[INFO ] 2020-03-29 19:04:00.955 - T - 14 tests.base.BaseTest:teardown 92 Taking Screenshot
+[INFO ] 2020-03-29 19:04:05.133 - T - 14 tests.base.BaseTest:stopService 104 browser is CHROME
+[INFO ] 2020-03-29 19:04:05.133 - T - 14 tests.base.BaseTest:stopService 105 Stopping driver for CHROME browser
