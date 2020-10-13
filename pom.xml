@@ -74,7 +74,7 @@
 
         <aspectj.version>1.8.13</aspectj.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <junit.version>4.1</junit.version>
+        <junit.version>4.13.1</junit.version>
         <selenium.version>3.141.59</selenium.version>
     </properties>
 
